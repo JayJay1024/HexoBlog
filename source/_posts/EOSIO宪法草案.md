@@ -11,7 +11,7 @@ categories: 攻城狮那些事儿
 - [第二条--产权](https://forums.eosgo.io/discussion/595/article-ii-v0-3-0-draft-eos-io-constitution-property-rights)
 - [第三条--仲裁](https://forums.eosgo.io/discussion/630/article-iii-v0-3-0-draft-eos-io-constitution-arbitration)
 <!--more-->
-- [第四条--不买或卖出票](https://forums.eosgo.io/discussion/646/article-iv-v0-3-0-draft-eos-io-constitution-no-buying-or-selling-of-votes)
+- [第四条--选民独立](https://forums.eosgo.io/discussion/646/article-iv-v0-3-0-draft-eos-io-constitution-no-buying-or-selling-of-votes)
 - [第五条--无业主或受托人](https://forums.eosgo.io/discussion/650/article-v-v0-3-0-draft-eos-io-constitution-no-owner-or-fiduciary)
 - [第六条--10%所以权上限](https://forums.eosgo.io/discussion/651/article-vi-v0-3-0-draft-eos-io-constitution-10-ownership-cap)
 - [第七条--处罚协议](https://forums.eosgo.io/discussion/718/article-vii-v0-3-0-draft-eos-io-constitution-agreement-to-penalties)

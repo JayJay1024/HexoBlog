@@ -22,3 +22,13 @@ $: brew uninstall boost
 ```
 $: brew upgrade mongodb
 ```
+
+## 查看服务：
+```
+$: brew services list
+```
+
+## 启动、停止、重启服务：
+```
+$: brew services start/stop/restart mongodb
+```

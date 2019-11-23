@@ -51,3 +51,21 @@ let Cat = {
 }
 Animal2.mycall(Cat, "catcat");  // 打印 "animal's name is catcat, color is white"
 ```
+
+## `apply`呢
+上面的`call`，调用的时候，需要对应每个参数，而`apply`一共只有两个参数，第一个和`call`是一样的，而第二个参数传的是参数数组，这用于不确定参数时很方便。
+```
+function fn(arg1, arg2) {
+	console.log.call(console, arg1, arg2);
+}
+fn("what", 666);  // 打印 "what 666"
+
+function fn2() {
+	console.log.apply(console, arguments);
+}
+fn2(12, "haha", 1234);  // 打印 "12 haha 1234"
+fn2(12, "haha", 1234, "what", "why");  // 打印 "12 haha 1234 what why"
+```
+
+## 总的
+总的来说，`call`和`apply`都是为了动态改变`this`的指向。

@@ -1,5 +1,3 @@
-#!/bin/bash
+#!/bin/zsh
 
-#hexo clean
-hexo g
-hexo s
+hexo clean && hexo g && hexo s

@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lucienlau.github.io
+url: https://damonlau27.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,7 +72,7 @@ theme: ayer2
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:LucienLau/LucienLau.github.io.git
+  repo: git@github.com:damonlau27/damonlau27.github.io.git
   branch: master
 
 # Hexo-generator-search

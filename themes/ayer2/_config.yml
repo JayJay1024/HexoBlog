@@ -76,7 +76,7 @@ gitalk:
 # GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
 github: 
   # (关闭请设置为false)
-  url: https://github.com/LucienLau/HexoBlog
+  url: https://github.com/damonlau27/HexoBlog
 
 # fancybox(仅用于相册展示，若需要可配置albums)
 fancybox: true
